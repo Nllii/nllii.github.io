@@ -1,0 +1,1 @@
+make package && make install
