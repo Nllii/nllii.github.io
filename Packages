@@ -1,3 +1,15 @@
+Package: iRE
+Version: "1.0"
+Architecture: iphoneos-arm
+Maintainer: "Steve Jensen <sjensen@veracode.com>"
+Filename: ./debs/iRET.deb
+Size: 65894
+MD5sum: f746c1db9cc8c863afb1b8331b8b2da0
+SHA1: 928c5da2bc1813fda71984bc6824c714875c3c78
+SHA256: 4f26ed591926a9a12f413e727f13efc0e4721b4c0ad9f636e0478a879bf3022b
+Author: "Steve Jensen <sjensen@veracode.com>"
+Name: "iRE"
+
 Package: nllii
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
