@@ -1,1 +1,1 @@
-cd ./tweaks/slapandrun/ && make package && make install
+cd ./tweaks/helloworld/ && make package && make install
