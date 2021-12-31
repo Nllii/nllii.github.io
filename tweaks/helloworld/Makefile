@@ -1,12 +1,10 @@
-TARGET := iphone:clang:latest:7.0
+TARGET := iphone:clang:latest:14.0
 INSTALL_TARGET_PROCESSES = SpringBoard
-export ARCHS = armv7 arm64
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = HelloWorld
-slaprun_FRAMEWORKS = UIKit    
+TWEAK_NAME = helloworld
 
-slaprun_FILES = Tweak.x
-slaprun_CFLAGS = -fobjc-arc
+helloworld_FILES = Tweak.x
+helloworld_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk

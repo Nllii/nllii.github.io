@@ -1,5 +1,5 @@
-Package: nllii
-Name: HelloWorld
+Package: nllii 
+Name: helloworld
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
