@@ -1,9 +1,0 @@
-Package: nllii
-Name: HelloWorld
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: codeserver
-Author: codeserver
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
