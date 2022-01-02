@@ -1,0 +1,16 @@
+Package: nllii
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: codeserver
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/nllii_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4188
+MD5sum: e4ab9a1dd5ec031781f41bd4dd28c382
+SHA1: ee96130de9bbf8292525f830b90b2bed933c2815
+SHA256: b9e23f33d4d13b0638bb986d3bdb8effc7b1bb09cf69e9e2c1cfc0e4ba4bb040
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: codeserver
+Name: HelloWorld
+
